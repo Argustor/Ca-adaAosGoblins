@@ -1,0 +1,4 @@
+-restart(Ao jogador morrer, deve aparecer para ele a opção de reiniciar o game) -- Importante
+-quit game(desenvolver uma opção de sair do jogo, para que o jogador saia quando desejar) -- Importante
+-Elaboração de um mapa(Aumentar o número de quartos que o jogador possa explorar) -- Desejável
+-Liberdade de escolha(permitir jogador possa escrever o que quiser na maioria das situações, havendo uma consequência para o que ele escrever) --Desejável
